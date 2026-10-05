@@ -2,4 +2,4 @@
 
 Play: https://intotheveil.github.io/roguepain-play/
 
-Exported automatically from the private source repo (commit eced581).
+Exported automatically from the private source repo (commit 5a63265).
